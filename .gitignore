@@ -1,0 +1,11 @@
+*.log
+log/
+__pycache__/
+*.py[cod]
+*$py.class
+*.xlsx
+.env
+.venv
+env/
+venv/
+ENV/ 
